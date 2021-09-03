@@ -1,12 +1,6 @@
 # PIPA V1.0
 
-
-
-
-
-
-
-
+![alt text](https://github.com/aaronsighed/PIPA/blob/main/PIPA.jpeg?raw=true)
 
 Parcellated Inter-hemispheric PET Asymmetry (PIPA)
 
