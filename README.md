@@ -15,7 +15,7 @@ Parcellated Inter-hemispheric PET Asymmetry (PIPA)
 
 This Bash script performs Freesurfer recon-all, PET-to-T1 co-registration, and calculates asymmetry indices from PET data using HCPMMP1 cortical parcellation (+ Freesurfer subcortical parcellation). 
 
-USAGE: PIPA.sh -s <PATH TO SUBJECT FOLDER> -i <SUBJECT ID> -t <PATH TO T1 IMAGE> -p <PATH TO PET IMAGE> -f <OPTIONAL PATH TO FLAIR IMAGE>
+USAGE: PIPA.sh -s [PATH TO SUBJECT FOLDER] -i [SUBJECT ID] -t [PATH TO T1 IMAGE] -p [PATH TO PET IMAGE] -f [OPTIONAL PATH TO FLAIR IMAGE]
 
 [-h] = show this usage/help text 
 
