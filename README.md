@@ -1,4 +1,4 @@
-# PIPA
+# PIPA V1.0
 Parcellated Inter-hemispheric PET Asymmetry (PIPA)
 
 # REQUIRED SOFTWARE
