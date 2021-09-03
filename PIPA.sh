@@ -50,7 +50,7 @@ fi
     currdir=$(pwd);
 
     #freesurfer stuff
-    export FREESURFER_HOME=/usr/local/freesurfer-6.0.0
+    export FREESURFER_HOME=/usr/local/freesurfer-7.1.1 #################################### CHANGE!
     source $FREESURFER_HOME/SetUpFreeSurfer.sh
     
     #path to required software/scripts
