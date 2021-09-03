@@ -54,8 +54,8 @@ fi
     source $FREESURFER_HOME/SetUpFreeSurfer.sh
     
     #path to required software/scripts
-    software=/data/aaron.warren/OTH/PET/PIPA_v1.0    #################################### CHANGE!
-    matlabdir=/home/aaron.warren/bin/MATLAB2020b/bin #################################### CHANGE!
+    software=/PATH/TO/PIPA_v1.0    #################################### CHANGE! 
+    matlabdir=/PATH/TO/MATLAB/BIN/FOLDER #################################### CHANGE! for example: /home/MATLAB/bin
     
     #note on dependencies:
     #the HCPMMP1 .annot files are projected on fsaverage, and were obtained from here:
